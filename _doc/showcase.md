@@ -1,13 +1,14 @@
 ---
 title: Showcase
-excerpt: Layout for showcase page. Lorem ipsum dolor sit amet, consectetuer adipiscing elit
-date: 2016-01-25
+date: 2016-01-25 00:00:00 Z
+excerpt: Layout for showcase page. Lorem ipsum dolor sit amet, consectetuer adipiscing
+  elit
 icon:
   name: icon_genius
 color: primary
 sections:
-  - /showcase/premium_themes
-  - /showcase/free_themes
+- "/showcase/premium_themes"
+- "/showcase/free_themes"
 promo:
   title: "*&nbsp;*{: .fa .fa-heart} [AppKit - Bootstrap Angular Admin Theme for Developers](https://wrapbootstrap.com/theme/admin-appkit-admin-theme-angularjs-WB051SCJ1?ref=3wm)"
   link: https://wrapbootstrap.com/theme/admin-appkit-admin-theme-angularjs-WB051SCJ1?ref=3wm

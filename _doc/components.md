@@ -1,14 +1,14 @@
 ---
 title: Components
+date: 2016-01-25 00:00:00 Z
 excerpt: Lorem ipsum dolor sit amet, consectetuer adipiscing elit
-date: 2016-01-25
 icon:
   name: icon_puzzle_alt
 color: pink
 sections:
-  - /components/dashboards
-  - /components/app_components
-  - /components/ui_components
+- "/components/dashboards"
+- "/components/app_components"
+- "/components/ui_components"
 promo:
   title: "*&nbsp;*{: .fa .fa-heart} [AppKit - Bootstrap Angular Admin Theme for Developers](https://wrapbootstrap.com/theme/admin-appkit-admin-theme-angularjs-WB051SCJ1?ref=3wm)"
   link: https://wrapbootstrap.com/theme/admin-appkit-admin-theme-angularjs-WB051SCJ1?ref=3wm
@@ -32,3 +32,4 @@ promo:
       {: .author}
       [Xiaoying Riley](http://themes.3rdwavemedia.com)
 ---
+

@@ -1,11 +1,11 @@
 ---
 title: App Components
 sections:
-  - Projects
-  - Discussions
-  - Members
-  - User Account
-  - Others
+- Projects
+- Discussions
+- Members
+- User Account
+- Others
 ---
 
 ### Projects

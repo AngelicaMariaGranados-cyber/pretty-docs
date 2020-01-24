@@ -5,5 +5,6 @@ icon:
   name: fa fa-gavel
 color: blue
 sections:
-  - /license
+- "/license"
 ---
+

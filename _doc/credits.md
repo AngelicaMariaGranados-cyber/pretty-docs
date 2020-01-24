@@ -1,13 +1,13 @@
 ---
 title: Theme License & Credits
+date: 2016-01-25 00:00:00 Z
 excerpt: Layout for license & credits page. Consectetuer adipiscing elit
-date: 2016-01-25
 icon:
   name: icon_gift
 color: orange
 sections:
-  - /credits/license
-  - /credits/credits
+- "/credits/license"
+- "/credits/credits"
 promo:
   title: "*&nbsp;*{: .fa .fa-heart} [AppKit - Bootstrap Angular Admin Theme for Developers](https://wrapbootstrap.com/theme/admin-appkit-admin-theme-angularjs-WB051SCJ1?ref=3wm)"
   link: https://wrapbootstrap.com/theme/admin-appkit-admin-theme-angularjs-WB051SCJ1?ref=3wm
@@ -31,3 +31,4 @@ promo:
       {: .author}
       [Xiaoying Riley](http://themes.3rdwavemedia.com)
 ---
+

@@ -1,15 +1,15 @@
 ---
 title: FAQs
+date: 2016-01-25 00:00:00 Z
 excerpt: Layout for FAQ page. Preguntas Frecuentes
-date: 2016-01-25
 icon:
   name: icon_lifesaver
 color: purple
 sections:
-  - /faqs/general
-  - /faqs/features
-  - /faqs/pricing
-  - /faqs/support
+- "/faqs/general"
+- "/faqs/features"
+- "/faqs/pricing"
+- "/faqs/support"
 promo:
   title: "*&nbsp;*{: .fa .fa-heart} [AppKit - Bootstrap Angular Admin Theme for Developers](https://wrapbootstrap.com/theme/admin-appkit-admin-theme-angularjs-WB051SCJ1?ref=3wm)"
   link: https://wrapbootstrap.com/theme/admin-appkit-admin-theme-angularjs-WB051SCJ1?ref=3wm
@@ -33,3 +33,4 @@ promo:
       {: .author}
       [Xiaoying Riley](http://themes.3rdwavemedia.com)
 ---
+

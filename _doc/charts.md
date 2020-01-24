@@ -1,15 +1,15 @@
 ---
 title: Charts
+date: 2016-01-25 00:00:00 Z
 excerpt: Lorem ipsum dolor sit amet, consectetuer adipiscing elit
-date: 2016-01-25
 icon:
   name: icon_datareport_alt
 color: blue
 sections:
-  - /charts/chart_js
-  - /charts/flot_charts
-  - /charts/morris_js
-  - /charts/inline_charts
+- "/charts/chart_js"
+- "/charts/flot_charts"
+- "/charts/morris_js"
+- "/charts/inline_charts"
 promo:
   title: "*&nbsp;*{: .fa .fa-heart} [AppKit - Bootstrap Angular Admin Theme for Developers](https://wrapbootstrap.com/theme/admin-appkit-admin-theme-angularjs-WB051SCJ1?ref=3wm)"
   link: https://wrapbootstrap.com/theme/admin-appkit-admin-theme-angularjs-WB051SCJ1?ref=3wm
@@ -33,3 +33,4 @@ promo:
       {: .author}
       [Xiaoying Riley](http://themes.3rdwavemedia.com)
 ---
+

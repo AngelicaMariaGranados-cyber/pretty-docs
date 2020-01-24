@@ -5,7 +5,8 @@ icon:
   name: fa fa-thumbs-o-up
 color: pink
 sections:
-  - /support
-  - /contributing
-  - /code_of_conduct
+- "/support"
+- "/contributing"
+- "/code_of_conduct"
 ---
+

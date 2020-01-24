@@ -1,5 +1,6 @@
 ---
 title: Jekyll Theme
+date: 2017-07-07 00:00:00 Z
 ---
 
 The theme has been refactored by [Guillermo Calvo](https://guillermo.in/) as a [Jekyll theme](https://jekyllrb.com/) to

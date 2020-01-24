@@ -1,11 +1,11 @@
 ---
-layout: home
 title: Home
+layout: home
 tagline: Esta es la documentación
 heading: Bienvenidos!
 navigation:
-  - /faqs
-  - /community
+- "/faqs"
+- "/community"
 ---
 
 <div class="cta-container">

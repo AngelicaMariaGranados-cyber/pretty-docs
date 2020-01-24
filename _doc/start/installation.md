@@ -1,9 +1,9 @@
 ---
 title: Installation
 sections:
-  - Step One
-  - Step Two
-  - Step Three
+- Step One
+- Step Two
+- Step Three
 ---
 
 ### Step One

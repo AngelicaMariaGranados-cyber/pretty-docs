@@ -1,11 +1,32 @@
-#
-# Site settings
-#
+---
+title: Pretty Docs
+timezone: UTC
+collections:
+  doc:
+    title: Doc
+    output: true
+    permalink: "/:path.html"
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: doc
+  values:
+    layout: doc
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: doc
 remote_theme: LeakyAbstractions/pretty-docs
 url: https://angelicamariagranados-cyber.github.io
-baseurl: /pretty-docs
-title: &site_title Pretty Docs
-description: &site_description Free Bootstrap theme for your project documentation
+baseurl: "/pretty-docs"
+description: Free Bootstrap theme for your project documentation
 branding:
   icon:
     name: icon_documents_alt
@@ -21,34 +42,24 @@ kramdown:
   hard_wrap: false
   footnote_nr: 1
   parse_block_html: true
-
-
-#
-# Owner
-#
 owner:
   name: Guillermo Calvo
-  twitter: &site_owner_twitter gcalvo
+  twitter: gcalvo
   copyright:
     notice: Lorem Ipsum
     author: "[Guillermo Calvo](https://guillermo.in/)"
-
-
-#
-# Social
-#
 open_graph:
-  title: *site_title
-  site_name: *site_title
-  description: *site_description
+  title: Pretty Docs
+  site_name: Pretty Docs
+  description: Free Bootstrap theme for your project documentation
   locale: en_US
-  image: /assets/images/thumb.png
+  image: "/assets/images/thumb.png"
 twitter_cards:
-  title: *site_title
-  description: *site_description
-  creator: *site_owner_twitter
+  title: Pretty Docs
+  description: Free Bootstrap theme for your project documentation
+  creator: gcalvo
   card: summary_large_image
-  image: /assets/images/thumb.png
+  image: "/assets/images/thumb.png"
 share:
   facebook:
     class: fb-like
@@ -57,41 +68,11 @@ share:
     show-faces: false
     share: false
   twitter:
-    via: *site_owner_twitter
-    text: &site_description
+    via: gcalvo
+    text: 
     title: Tweet
   github:
     repo: LeakyAbstractions/pretty-docs
     position: right
     color: red
-
-
-# Google Analytics
 google_analytics: UA-61670496-5
-
-
-#
-# Collections
-#
-collections:
-  doc:
-    output: true
-    permalink: /:path.html
-
-
-#
-# Default values
-#
-defaults:
-  -
-    scope:
-      path: ""
-      type: doc
-    values:
-      layout: doc
-  -
-    scope:
-      path: ""
-      type: pages
-    values:
-      layout: doc
