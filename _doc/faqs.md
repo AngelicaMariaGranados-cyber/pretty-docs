@@ -1,6 +1,6 @@
 ---
 title: FAQs
-excerpt: Layout for FAQ page. Lorem ipsum dolor sit amet, consectetuer adipiscing elit
+excerpt: Layout for FAQ page. Preguntas Frecuentes
 date: 2016-01-25
 icon:
   name: icon_lifesaver
